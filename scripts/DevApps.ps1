@@ -11,7 +11,6 @@ $PackageIdentifiers = @(
   "SecretsOPerationS.SOPS"
   "WinSCP.WinSCP"
   "Amazon.AWSCli"
-  "Google.CloudSDK"
   "dandavison.delta"
 )
 
