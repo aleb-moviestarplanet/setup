@@ -2,8 +2,8 @@ winget source update
 $PackageIdentifiers = @(
   "Bitwarden.Bitwarden"
   "Flameshot.Flameshot"
+  "NickeManarin.ScreenToGif"
   "gerardog.gsudo"
-  "Microsoft.Edge"
   "Microsoft.PowerShell"
   "Microsoft.WindowsTerminal"
   "JanDeDobbeleer.OhMyPosh"
@@ -13,6 +13,7 @@ $PackageIdentifiers = @(
   "Spotify.Spotify"
   "Yubico.Authenticator"
   "Google.GoogleDrive"
+  "Google.Chrome"
   "OpenVPNTechnologies.OpenVPNConnect"
   "UderzoSoftware.SpaceSniffer"
 )
